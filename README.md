@@ -24,3 +24,14 @@ RxJS - Programación reactiva
 Chart.js - Gráficos y estadísticas
 TypeScript - Lenguaje de programación
 
+Configuración:
+Para la api de Auth se debe cambiar la cade de conexión ubicada en el appsettings.json y appsettings.Development.json.
+Para la api de Auth se debe cambiar la cade de conexión ubicada en el appsettings.json.
+
+Ejecución del proyecto:
+Puede hacer uso de las credenciales que se encuentran ingresadas:
+Usuario: Admin	Contraseña: admin123	
+Usuario: Gestor	Contraseña: gestor123	
+Usuario: Consultor	Contraseña: consultor123	
+
+
